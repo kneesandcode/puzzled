@@ -1,8 +1,3 @@
----
-title: "My First Puzzle"
-date: 2026-02-07
----
-
 <html>
     <!-- 2025 by Thomas Colthurst -->
     <!-- Original at https://thomaswc.com/2025.html -->
