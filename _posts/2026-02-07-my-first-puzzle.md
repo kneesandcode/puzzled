@@ -1,5 +1,5 @@
 ---
-title: "MY FIRST TITLE"
+title: "My First Puzzle"
 date: 2026-02-07
 ---
 
